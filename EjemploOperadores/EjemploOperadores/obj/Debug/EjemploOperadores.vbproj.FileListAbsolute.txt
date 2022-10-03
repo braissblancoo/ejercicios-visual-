@@ -1,0 +1,4 @@
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\EjemploOperadores\EjemploOperadores\obj\Debug\EjemploOperadores.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\EjemploOperadores\EjemploOperadores\obj\Debug\EjemploOperadores.Resources.resources
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\EjemploOperadores\EjemploOperadores\obj\Debug\EjemploOperadores.vbproj.GenerateResource.cache
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\EjemploOperadores\EjemploOperadores\obj\Debug\EjemploOperadores.vbproj.CoreCompileInputs.cache
