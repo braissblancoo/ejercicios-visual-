@@ -1,0 +1,11 @@
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.Resources.resources
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.vbproj.GenerateResource.cache
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\bin\Debug\ejerciciosBol3.exe.config
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\bin\Debug\ejerciciosBol3.exe
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\bin\Debug\ejerciciosBol3.pdb
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\bin\Debug\ejerciciosBol3.xml
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.exe
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.xml
+C:\Users\Alumno\Documents\GitHub\ejercicios-visual-\ejerciciosBol3\ejerciciosBol3\obj\Debug\ejerciciosBol3.pdb
